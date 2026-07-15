@@ -91,12 +91,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=deeblr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeblr&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deeblr&theme=tokyonight&hide_border=true" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deeblr&theme=tokyo-night&hide_border=true" width="90%" />
 
 </div>
 
@@ -106,16 +106,16 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nothing">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/YOUR_TWITTER">
+<a href="https://twitter.com/deebllr">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://YOUR_PORTFOLIO.com">
+<a href="https://a">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -125,6 +125,6 @@
 
 <div align="center">
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) — thanks for stopping by!
+⭐️ From [Deeblr](https://github.com/deeblr) — thanks for stopping by!
 
 </div>
