@@ -1,6 +1,7 @@
 <div align="center">
 
-# مرحباً، أنا Deeblr 👋
+# Hi, I'm Deeblr 👋
+
 ### 🚀 Software Engineer | Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -9,24 +10,28 @@
 
 </div>
 
----
+<br>
 
-### 🧑‍💻 نبذة عني
+## 🧑‍💻 About Me
 
-- 💼 مهندس برمجيات (Software Engineer) متخصص في بناء تطبيقات ويب متكاملة (Full Stack)
-- 🏗️ شغوف ببناء تطبيقات قابلة للتوسّع (Scalable) وذات أداء عالٍ وتجربة مستخدم ممتازة
-- 🧠 مهتم بهندسة البرمجيات (Software Architecture) وكتابة كود نظيف (Clean Code)
-- 🌱 أتعلم باستمرار تقنيات وأدوات جديدة
-- 🤝 منفتح على التعاون في مشاريع مميزة
-- 📫 تواصل معي عبر القنوات بالأسفل 👇
+```
+🔭 Software Engineer specializing in Full Stack Web Development
+🏗️ Passionate about building scalable, high-performance applications
+🧠 Deeply interested in Software Architecture & Clean Code
+🌱 Constantly learning new technologies and best practices
+🤝 Open to collaboration on interesting, impactful projects
+📫 Reach out through the channels below
+```
 
----
+<br>
 
-## 🛠️ التقنيات التي أعمل بها
+## 🛠️ Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="20%"><b>🎨 Frontend</b></td>
+<td width="80%">
 
-### 🎨 Frontend
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -37,14 +42,24 @@
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 
-### ⚙️ Backend
+</td>
+</tr>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 
-### 🗄️ Databases
+</td>
+</tr>
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -52,7 +67,12 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-### ☁️ DevOps & أدوات
+</td>
+</tr>
+<tr>
+<td><b>☁️ DevOps & Tools</b></td>
+<td>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -61,40 +81,13 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-</div>
-
----
-
-## 🚀 مشاريع مميزة
-
-<table>
-<tr>
-<td width="50%">
-
-### 📌 اسم المشروع الأول
-> وصف مختصر وجذاب عن المشروع وما الذي يحله من مشكلة.
-
-**التقنيات:** `React` `Next.js` `Node.js` `PostgreSQL`
-
-[🔗 عرض المشروع](https://github.com/YOUR_USERNAME) &nbsp;|&nbsp; [📄 الكود المصدري](https://github.com/YOUR_USERNAME)
-
-</td>
-<td width="50%">
-
-### 📌 اسم المشروع الثاني
-> وصف مختصر وجذاب عن المشروع وما الذي يحله من مشكلة.
-
-**التقنيات:** `NestJS` `Prisma` `MongoDB`
-
-[🔗 عرض المشروع](https://github.com/YOUR_USERNAME) &nbsp;|&nbsp; [📄 الكود المصدري](https://github.com/YOUR_USERNAME)
-
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 إحصائيات GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -107,9 +100,9 @@
 
 </div>
 
----
+<br>
 
-## 📫 تواصل معي
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -128,10 +121,10 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-⭐️ من [YOUR_USERNAME](https://github.com/YOUR_USERNAME) — شكراً لزيارتك بروفايلي!
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) — thanks for stopping by!
 
 </div>
