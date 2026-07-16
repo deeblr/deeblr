@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/ejs-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </td>
 </tr>
 <tr>
